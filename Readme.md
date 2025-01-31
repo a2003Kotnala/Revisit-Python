@@ -1,0 +1,1 @@
+I will be practising python here i.e i will be implementing python projects here. Also, pushing all the programs to my github for future use and revision.
